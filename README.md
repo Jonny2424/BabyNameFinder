@@ -8,7 +8,7 @@ In the project directory, you can run:
 
 ### Screen Shot
 
-![Basic Image] (https://imgur.com/SpJdgZR)
+![Basic Image] (https://i.imgur.com/SpJdgZR.png)
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
