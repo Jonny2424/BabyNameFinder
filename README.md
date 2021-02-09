@@ -1,5 +1,5 @@
-![Screenshot](https://i.imgur.com/SpJdgZR.png)
-
+<!-- ![Screenshot](https://i.imgur.com/SpJdgZR.png) -->
+<div style="text-align:center"><img src="https://i.imgur.com/SpJdgZR.png" /></div>
 
 # Find that perfect name!
 
