@@ -1,8 +1,8 @@
 <!-- ![Screenshot](https://i.imgur.com/SpJdgZR.png) -->
-<div style="text-align:center"><img src="https://i.imgur.com/SpJdgZR.png" /></div>
+<!-- <div style="text-align:center"><img src="https://i.imgur.com/SpJdgZR.png" /></div> -->
 
 <p align="center">
-  <img width="460" height="300" src="https://i.imgur.com/SpJdgZR.png">
+  <img src="https://i.imgur.com/SpJdgZR.png">
 </p>
 
 # Find that perfect name!
