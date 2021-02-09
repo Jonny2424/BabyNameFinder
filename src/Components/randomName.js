@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import { Button } from "antd";
 
 class App2 extends Component {
   constructor(props) {
@@ -33,7 +32,7 @@ class App2 extends Component {
       },
     })
       .then((response) => response.json())
-      .then((data) => this.setState({ fname: data.results[0].name.first, lname: event.target.value }))
+      .then((data) => this.setState({ fname: data.results[0].name.first }))
       .catch((e) => console.log("error", e));
       console.log(this.state.lname);
   };
