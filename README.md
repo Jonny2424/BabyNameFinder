@@ -1,11 +1,11 @@
-# Getting Started with Create React App
+# Find that perfect name!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Having trouble thinking of names for your precious baby? Look no further! With this app, you will be able to find names in no time. Takes the "thinking" right out of it. Add a last name, select a gender, and click away. More features coming! 
 
-## Available Scripts
+## Reason for making
 
-In the project directory, you can run:
+This project makes a simple api call to find a random name using fetch. Then displayed using react.
 
-### Screen Shot
+### Basic Layout
 
 ![Screenshot](https://i.imgur.com/SpJdgZR.png)
